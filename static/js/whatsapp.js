@@ -25,7 +25,7 @@ var options = {
     ctaText: "Start Chat",
     borderRadius: "25",
     autoShow: true,
-    phoneNumber: "0671518890",
+    phoneNumber: "+27671518890",
   },
 };
 s.onload = function () {
